@@ -9,7 +9,7 @@ name: Michael Thingnes
 description: Software Developer based in Wellington, New Zealand
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/mymug.png
+avatar: https://github.com/thimic/thimic.github.io/raw/master/images/mymug.jpg
 
 #
 # Flags below are optional
